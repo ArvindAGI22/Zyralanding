@@ -49,7 +49,7 @@ const GoogleDocsIntegration = () => {
             <div className="relative max-w-2xl mx-auto">
               <div className="bg-black rounded-2xl p-8">
                 <img 
-                  src="/public/Untitled design (3) copy.png" 
+                  src="/Untitled design (3) copy.png" 
                   alt="Google Docs Integration Interface" 
                   className="w-full h-auto rounded-2xl shadow-2xl border border-gray-800"
                 />

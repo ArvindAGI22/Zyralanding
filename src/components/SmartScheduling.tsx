@@ -49,7 +49,7 @@ const SmartScheduling = () => {
             <div className="relative max-w-2xl mx-auto">
               <div className="bg-black rounded-2xl p-8">
                 <img 
-                  src="/public/Untitled design (1).png" 
+                  src="/Untitled design (1).png" 
                   alt="Smart Scheduling Interface" 
                   className="w-full h-auto rounded-2xl shadow-2xl border border-gray-800"
                 />

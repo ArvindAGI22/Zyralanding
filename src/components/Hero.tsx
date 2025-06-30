@@ -37,7 +37,7 @@ const Hero = () => {
           <div className="relative max-w-2xl mx-auto mb-16">
             <div className="relative brain-container">
               <img 
-                src="/public/MW-HO155_brain_ZH_20190725114321 copy.png" 
+                src="/MW-HO155_brain_ZH_20190725114321 copy.png" 
                 alt="AI Brain Network" 
                 className="w-full h-auto rounded-2xl shadow-2xl relative z-10"
               />
@@ -113,7 +113,7 @@ const Hero = () => {
           <div className="relative max-w-4xl mx-auto">
             <div className="bg-gradient-to-r from-blue-500/20 to-cyan-500/20 rounded-3xl p-8 backdrop-blur-sm border border-white/10">
               <img 
-                src="/public/snip.png" 
+                src="/snip.png" 
                 alt="Zyra Chat Interface" 
                 className="w-full h-auto rounded-2xl shadow-2xl border border-gray-800"
               />

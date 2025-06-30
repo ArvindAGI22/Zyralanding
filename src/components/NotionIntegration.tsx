@@ -49,7 +49,7 @@ const NotionIntegration = () => {
             <div className="relative max-w-2xl mx-auto">
               <div className="bg-black rounded-2xl p-8">
                 <img 
-                  src="/public/notion copy.jpg" 
+                  src="/notion copy.jpg" 
                   alt="Notion Integration Interface" 
                   className="w-full h-auto rounded-2xl shadow-2xl border border-gray-800"
                 />

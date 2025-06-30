@@ -48,7 +48,7 @@ const EmailManagement = () => {
           <div className="relative">
             <div className="relative max-w-2xl mx-auto">
               <img 
-                src="/public/Screenshot 2025-06-30 141229.png" 
+                src="/Screenshot 2025-06-30 141229.png" 
                 alt="Email Management Interface" 
                 className="w-full h-auto rounded-2xl shadow-2xl border border-gray-800"
               />
