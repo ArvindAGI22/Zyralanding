@@ -32,7 +32,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Left - Logo and Brand */}
           <div className="flex items-center gap-3">
-            <div className="w-12 h-12 rounded-full flex items-center justify-center overflow-hidden bg-white">
+            <div className="w-24 h-24 rounded-full flex items-center justify-center overflow-hidden bg-white">
               <img 
                 src="/white_circle_360x360.png" 
                 alt="Bolt Badge" 
