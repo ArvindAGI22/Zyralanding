@@ -32,13 +32,18 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Left - Logo and Brand */}
           <div className="flex items-center gap-3">
-            <div className="w-24 h-24 rounded-full flex items-center justify-center overflow-hidden bg-white">
+            <a 
+              href="https://bolt.new/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="w-24 h-24 rounded-full flex items-center justify-center overflow-hidden bg-white hover:scale-105 transition-transform duration-300"
+            >
               <img 
                 src="/white_circle_360x360.png" 
                 alt="Bolt Badge" 
                 className="w-full h-full object-contain"
               />
-            </div>
+            </a>
             <span className="text-2xl font-bold text-white tracking-tight">Zyra</span>
           </div>
 
