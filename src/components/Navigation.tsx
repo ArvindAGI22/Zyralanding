@@ -32,11 +32,11 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Left - Logo and Brand */}
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl flex items-center justify-center overflow-hidden">
+            <div className="w-10 h-10 rounded-full flex items-center justify-center overflow-hidden bg-white">
               <img 
-                src="/public/logo copy.jpg" 
-                alt="Zyra Logo" 
-                className="w-full h-full object-contain filter brightness-110"
+                src="/white_circle_360x360.png" 
+                alt="Bolt Badge" 
+                className="w-full h-full object-contain"
               />
             </div>
             <span className="text-2xl font-bold text-white tracking-tight">Zyra</span>
